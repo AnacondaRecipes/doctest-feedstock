@@ -39,7 +39,7 @@ about:
     It brings the ability of compiled languages such as D / Rust / Nim to
     have tests written directly in the production code thanks to a fast,
     transparent and flexible test runner with a clean interface.
-  doc_url: https://github.com/onqtam/doctest/blob/master/doc/markdown/readme.md#reference
+  doc_url: https://github.com/onqtam/doctest/blob/master/doc/markdown/readme.md
   dev_url: https://github.com/onqtam/doctest
 
 extra:
